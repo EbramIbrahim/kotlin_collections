@@ -1,4 +1,10 @@
-## Kotlin Collections Explaination With Examples
+# Kotlin Collection Operations Explaination With Examples
 
-# Transformation operations 
+### TRANSFORMATION OPERATIONS 
 * map - mapNotNull - mapIndexed - flatMap
+### FILTERS OPERATIONS 
+* filter - filterNot - listOfNotNull - filterIsInstance
+### CHECK OPERATIONS 
+* all - any - none - count
+### COMBINE OPERATIONS
+* reduce - fold
