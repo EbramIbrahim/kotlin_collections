@@ -10,3 +10,5 @@
 * reduce - fold
 ### Associations OPERATIONS
 * associate - associateBy - associateWith
+### Sorting OPERATIONS
+* sorted - sortedWith - sortedByDescending
