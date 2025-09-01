@@ -14,3 +14,6 @@
 * sorted - sortedWith - sortedByDescending
 ### Unique Items OPERATIONS
 * distnct - distinctBy - partition
+### 𝗦𝗟𝗜𝗖𝗜𝗡𝗚 OPERATIONS
+* take - takeLast - drop
+
