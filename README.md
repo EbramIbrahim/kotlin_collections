@@ -8,3 +8,5 @@
 * all - any - none - count
 ### COMBINE OPERATIONS
 * reduce - fold
+### Associations OPERATIONS
+* associate - associateBy - associateWith
