@@ -12,3 +12,5 @@
 * associate - associateBy - associateWith
 ### Sorting OPERATIONS
 * sorted - sortedWith - sortedByDescending
+### Unique Items OPERATIONS
+* distnct - distinctBy - partition
