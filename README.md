@@ -1,4 +1,4 @@
-# Kotlin Collection Operations Explaination With Examples
+## Kotlin Collection Operations Explaination With Examples
 
 #### TRANSFORMATION OPERATIONS 
 * map - mapNotNull - mapIndexed - flatMap
