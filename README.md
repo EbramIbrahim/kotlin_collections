@@ -6,7 +6,7 @@
 * filter - filterNot - listOfNotNull - filterIsInstance
 ## CHECK OPERATIONS 
 * all - any - none - count
-## COMBINE OPERATIONS
+#### COMBINE OPERATIONS
 * reduce - fold
 ### Associations OPERATIONS
 * associate - associateBy - associateWith
